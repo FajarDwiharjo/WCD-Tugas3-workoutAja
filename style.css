@@ -28,20 +28,34 @@ nav {
 
 /* Check list styling */
 nav ul {
+  list-style: none;
   display: flex;
   gap: 48px;
 }
 
 /* Check list link style */
 nav ul li a {
-
+  font-family: 'Mulish', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0; 
+  text-decoration: none;
+  opacity: 0.5;
+  color: #1F1534;
 }
 
 /* Make text bold on hover */
 nav ul li a:hover {
-  
+  font-weight: 700;
+  opacity: 1;
+  color: #1f1534;
 }
 
+.active {
+  font-weight: 700;
+  opacity: 1;
+}
 
 main {
   display: flex;
@@ -53,15 +67,30 @@ main {
 /* Check margin and font styling */
 .text h1 {
   font-family: 'Mulish', sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.5;
+  letter-spacing: 0; 
+  text-transform: uppercase;
+  color: #000000;
 }
 
 /* Check font styling */
 .text h1 span {
+  font-weight: 700;
+  color: #89C5CC;
+  ;
 }
 
 /* Check font styling */
 .text p {
   font-family: 'Open Sans', sans-serif; 
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0; 
+  color: #7D7987;
+  ;
 }
 
 /* Check font styling and make sure the button is rounded */
@@ -69,15 +98,33 @@ main {
   font-family: 'Open Sans', sans-serif;
   display: flex;
   gap: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 0; 
+  align-items: center;
+  line-height: 21px;
+  color: #F9F9F9;
+  padding: 14px 32px;
+  background: #69B99D;
+  border-radius: 4px;
+  border: none;
 }
 
 /* Handle when user hover on the button */
 .text button:hover {
+  background-color: #599882;
 }
 
 /* Check the text styling */
 footer {
   font-family: 'Open Sans', sans-serif; 
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.6;
+  letter-spacing: 0; 
+  text-align: center;
+  color: #000;
 }
 
 /* Check the text styling */
@@ -87,9 +134,14 @@ footer a {
   font-weight: 700;
 }
 
+footer a:hover {
+  text-decoration: underline;
+}
+
 #balls {
   position: fixed;
   bottom: 0px;
   right: 0px;
+  color: linear-gradient(#89C5CC, #89C5CC);
 }
 
