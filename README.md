@@ -1,7 +1,5 @@
 24130500010-FajarDwiharjo-WCD03-Tugas3-workoutAja
 
-
-```markdown
 # 🏋️‍♀️ WorkoutAja Landing Page
 
 This repository contains a simple, responsive landing page built using HTML and CSS. The page is designed for a fictional fitness brand called **WorkoutAja**, promoting personalized workout plans with a modern and clean aesthetic.
