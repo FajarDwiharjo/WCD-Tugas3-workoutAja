@@ -347,7 +347,7 @@ footer a:hover {
   position: fixed;
   bottom: 0px;
   right: 0px;
-  color: linear-gradient(#89C5CC, #89C5CC); /* ⚠️ This should likely be background instead of color */
+  color: linear-gradient(#89C5CC, #89C5CC); 
 }
 ```
 
