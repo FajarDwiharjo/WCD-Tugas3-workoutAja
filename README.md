@@ -23,7 +23,8 @@ The project consists of the following core files:
 
 ## 📸 Preview
 
-![Landing Page Preview](./images/woman.svg)  
+![Landing Page Preview](./images/preview)
+
 
 ## 📁 Folder Structure
 
