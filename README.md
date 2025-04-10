@@ -23,7 +23,7 @@ The project consists of the following core files:
 
 ## 📸 Preview
 
-![Landing Page Preview](<image/Preview.png>)
+![Alt Text][def]
 
 
 ## 📁 Folder Structure
@@ -353,3 +353,6 @@ footer a:hover {
 ```
 
 ---
+
+
+[def]: <image\Preview.png>
