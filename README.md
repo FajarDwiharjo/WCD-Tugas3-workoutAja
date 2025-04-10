@@ -23,7 +23,7 @@ The project consists of the following core files:
 
 ## 📸 Preview
 
-![alt text](<image/Preview.png>)
+![alt text](<images/Preview.png>)
 
 ## 📁 Folder Structure
 
