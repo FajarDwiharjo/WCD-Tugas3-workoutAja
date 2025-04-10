@@ -23,7 +23,7 @@ The project consists of the following core files:
 
 ## 📸 Preview
 
-![Landing Page Preview](./images/preview)
+![Landing Page Preview](<image/Preview.png>)
 
 
 ## 📁 Folder Structure
